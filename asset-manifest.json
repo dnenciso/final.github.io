@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dnenciso/final.github.io.git/static/css/main.242813e6.chunk.css",
+    "main.js": "/dnenciso/final.github.io.git/static/js/main.136c0232.chunk.js",
+    "main.js.map": "/dnenciso/final.github.io.git/static/js/main.136c0232.chunk.js.map",
+    "runtime-main.js": "/dnenciso/final.github.io.git/static/js/runtime-main.51c21ad5.js",
+    "runtime-main.js.map": "/dnenciso/final.github.io.git/static/js/runtime-main.51c21ad5.js.map",
+    "static/js/2.2cc7ef6e.chunk.js": "/dnenciso/final.github.io.git/static/js/2.2cc7ef6e.chunk.js",
+    "static/js/2.2cc7ef6e.chunk.js.map": "/dnenciso/final.github.io.git/static/js/2.2cc7ef6e.chunk.js.map",
+    "index.html": "/dnenciso/final.github.io.git/index.html",
+    "precache-manifest.376dcc1846b9db2a9715f078e4916a6e.js": "/dnenciso/final.github.io.git/precache-manifest.376dcc1846b9db2a9715f078e4916a6e.js",
+    "service-worker.js": "/dnenciso/final.github.io.git/service-worker.js",
+    "static/css/main.242813e6.chunk.css.map": "/dnenciso/final.github.io.git/static/css/main.242813e6.chunk.css.map",
+    "static/js/2.2cc7ef6e.chunk.js.LICENSE.txt": "/dnenciso/final.github.io.git/static/js/2.2cc7ef6e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dnenciso/final.github.io.git/static/media/fondo.ac7d30f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c21ad5.js",
+    "static/js/2.2cc7ef6e.chunk.js",
+    "static/css/main.242813e6.chunk.css",
+    "static/js/main.136c0232.chunk.js"
+  ]
+}
